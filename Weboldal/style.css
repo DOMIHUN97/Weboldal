@@ -1,0 +1,31 @@
+#menuszalag {
+    width: 100%;
+    background-color: var(--menu);
+    color: var(--feher);
+    height: 50px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#menuszalag ul {
+    display: inline;
+}
+
+#menuszalag ul li {
+    display: inline;
+    padding: 10px;
+    line-height: 50px;
+}
+
+a {
+    color: var(--feher);
+    text-decoration: none;
+}
+
+p{
+    font-size: 30px;
+}
+
+html{
+    background-color: azure;
+}
